@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="main_brown">#8a3d0e</color>
+    <color name="gray_font">#717171</color>
+
+
+
+    <!-- custom colors-->
+    <color name="gray_dark_nevi">#37474f</color>
+    <color name="menu_color">#7d00ef</color>
+    <color name="transpernt_black">#cd000000</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
